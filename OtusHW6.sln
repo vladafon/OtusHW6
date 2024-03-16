@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OtusHW6", "OtusHW6\OtusHW6.csproj", "{45DF7227-8B80-40AF-8F7C-80A85E5599C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OtusHW6.Command", "OtusHW6.Command\OtusHW6.Command.csproj", "{9752D97E-91E0-4B70-9547-167451AB117D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45DF7227-8B80-40AF-8F7C-80A85E5599C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45DF7227-8B80-40AF-8F7C-80A85E5599C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45DF7227-8B80-40AF-8F7C-80A85E5599C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45DF7227-8B80-40AF-8F7C-80A85E5599C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9752D97E-91E0-4B70-9547-167451AB117D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9752D97E-91E0-4B70-9547-167451AB117D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9752D97E-91E0-4B70-9547-167451AB117D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9752D97E-91E0-4B70-9547-167451AB117D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1904E053-EE9D-4936-883E-500C73524653}
+	EndGlobalSection
+EndGlobal
